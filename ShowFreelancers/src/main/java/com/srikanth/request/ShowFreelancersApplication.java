@@ -12,11 +12,11 @@ public class ShowFreelancersApplication {
 	}
 
 	
-	/*
-	 * @Bean public ShowFreelancersApplication get() {
-	 * System.err.println("object created"); return new
-	 * ShowFreelancersApplication(); }
-	 */
+	
+	  @Bean public ShowFreelancersApplication get() {
+	  System.err.println("object created"); return new
+	  ShowFreelancersApplication(); }
+	 
 	
 	
 	
